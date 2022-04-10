@@ -1,0 +1,31 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 40d58b0e-552e-4a54-b994-307438ca7db1)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "VBUS" (shape input) (at 73.66 66.04 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 08942aba-7e36-41e2-8042-6e4cadde3813)
+  )
+  (hierarchical_label "BAT+" (shape output) (at 149.86 110.49 270)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 0c2f6cb2-e750-4264-bf0b-d8ab72287a4e)
+  )
+  (hierarchical_label "VOUT_3V3" (shape output) (at 215.9 80.01 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 3f69fc11-7d07-4fb9-a841-8db2e203db51)
+  )
+  (hierarchical_label "BAT-" (shape input) (at 146.05 110.49 270)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 8d361258-b918-4d3a-b8ef-df728eb5daec)
+  )
+  (hierarchical_label "VOUT_5V" (shape output) (at 215.9 71.12 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid a455cae6-d9a6-4c0b-b15f-4d3c5b7611a1)
+  )
+)
