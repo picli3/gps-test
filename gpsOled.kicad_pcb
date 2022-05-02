@@ -453,7 +453,7 @@
       (net 2 "GND") (pinfunction "S") (pintype "input") (tstamp 5e305aba-7562-45d2-84d0-4c0924c029f4))
     (pad "8" smd roundrect (at 2.8625 -0.975 180) (size 1.475 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 60 "Net-(Q1-Pad1)") (pinfunction "D") (pintype "passive") (tstamp fcec6243-5bc0-4116-8559-ca26d8798f31))
-    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-8_4.4x3mm_P0.65mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-8_4.4x3mm_P0.65mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -506,7 +506,7 @@
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 3d635ae3-cade-413c-b7fd-1c5c59d93f6b))
     (pad "2" smd rect (at 3.98 2.25) (size 1.55 1.3) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp cb44385f-a1fe-468f-a00f-f11f6f186b0e))
-    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS645.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS645.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -716,7 +716,7 @@
       (net 56 "Net-(D2-Pad1)") (pinfunction "K") (pintype "passive") (tstamp 042a912f-bf75-4fe6-8fee-955612a5faf0))
     (pad "2" smd roundrect (at 0.875 0 90) (size 1.05 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 5 "/charger/VBUS") (pinfunction "A") (pintype "passive") (tstamp 2c3b770b-ed77-485f-8115-cd2196249a01))
-    (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -860,7 +860,7 @@
     (pad "4" thru_hole circle (at 0 3.3 90) (size 1.4 1.4) (drill 0.9) (layers *.Cu *.Mask) (tstamp 09c8f702-a717-446f-8743-15ac153c1efb))
     (pad "5" thru_hole circle (at 2.5 3.3 90) (size 1.4 1.4) (drill 0.9) (layers *.Cu *.Mask) (tstamp 39927189-2e5b-4cbd-931a-02e78cfe27b9))
     (pad "6" thru_hole circle (at 5 3.3 90) (size 1.4 1.4) (drill 0.9) (layers *.Cu *.Mask) (tstamp f7dc5309-1db7-4082-a30a-c5c2dad4c789))
-    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_CuK_JS202011AQN_DPDT_Angled.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_THT.3dshapes/SW_CuK_JS202011AQN_DPDT_Angled.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1263,7 +1263,7 @@
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 1801b490-e167-4017-b944-9a4eff28350b))
     (pad "2" smd rect (at -3.98 2.25) (size 1.55 1.3) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 650b76f3-7af3-4f2a-80ac-e4162e3fc208))
-    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS645.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS645.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1353,7 +1353,7 @@
       (net 58 "/ESP32/UART_TX_0") (pinfunction "Pin_2") (pintype "passive") (tstamp 796497cf-4963-4c2a-b979-53fe4d179273))
     (pad "3" thru_hole oval (at 0 5.08) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 57 "/ESP32/UART_RX_0") (pinfunction "Pin_3") (pintype "passive") (tstamp 3428450d-3fc1-4a03-b508-2cd294448dc3))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1406,7 +1406,7 @@
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 7392dc5a-aebc-4c0e-a9ce-72ece4f6627f))
     (pad "2" smd rect (at 3.98 2.25) (size 1.55 1.3) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp c55bad98-8fb6-4b7f-9f42-c749606dd7ed))
-    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS645.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS645.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1459,7 +1459,7 @@
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp 3b17c6ec-9313-4611-bb9c-c266303ce2ac))
     (pad "2" smd rect (at 3.98 2.25) (size 1.55 1.3) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 2 "GND") (pinfunction "2") (pintype "passive") (tstamp f1291c19-e6f7-4daa-a114-d6b52b720fd2))
-    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS645.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_PTS645.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1818,7 +1818,7 @@
       (net 68 "Net-(D3-Pad1)") (pinfunction "K") (pintype "passive") (tstamp a961e41d-f83b-486a-9125-3404e112ea1b))
     (pad "2" smd roundrect (at 0.875 0 90) (size 1.05 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 5 "/charger/VBUS") (pinfunction "A") (pintype "passive") (tstamp 26c249d2-8090-41d6-a4a2-ae01b993aa52))
-    (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1880,7 +1880,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HTSOP-8-1EP_3.9x4.9mm_Pitch1.27mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HTSOP-8-1EP_3.9x4.9mm_Pitch1.27mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2846,7 +2846,7 @@
       (net 34 "/ESP32/UART_TX_2") (pinfunction "Pin_3") (pintype "passive") (tstamp de9a5a2a-f33c-4d4d-8c02-6f3a6ecdcc7f))
     (pad "4" thru_hole oval (at 0 -7.62 90) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 2 "GND") (pinfunction "Pin_4") (pintype "passive") (tstamp 1e068ae4-415d-4569-a1b2-fbc6ef76051e))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Horizontal.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
