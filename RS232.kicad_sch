@@ -637,7 +637,7 @@
     (property "Value" "MAX3232" (id 1) (at 151.8794 67.31 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_SO:SSOP-20_3.9x8.7mm_P0.635mm" (id 2) (at 151.13 121.92 0)
+    (property "Footprint" "Package_SO:SOIC-16_4.55x10.3mm_P1.27mm" (id 2) (at 151.13 121.92 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://datasheets.maximintegrated.com/en/ds/MAX3222-MAX3241.pdf" (id 3) (at 149.86 92.71 0)
