@@ -1532,6 +1532,12 @@
     (path "/500e58ba-b335-42ec-89b8-0ead2c9a619b/2398dcb7-1473-466d-a0d6-069876e4cfa0"
       (reference "#PWR034") (unit 1) (value "GND") (footprint "")
     )
+    (path "/500e58ba-b335-42ec-89b8-0ead2c9a619b/27196dad-7204-4db8-a8b3-c19031d9c1d8"
+      (reference "#PWR035") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/500e58ba-b335-42ec-89b8-0ead2c9a619b/a3e0179f-8a4e-4a4e-8372-04ecbbd240ec"
+      (reference "#PWR036") (unit 1) (value "+3V3") (footprint "")
+    )
     (path "/500e58ba-b335-42ec-89b8-0ead2c9a619b/668bee28-640b-4648-b526-27d2adf8522d"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
@@ -1625,6 +1631,9 @@
     (path "/500e58ba-b335-42ec-89b8-0ead2c9a619b/c1a525ea-23e1-4a03-b30a-53a03b442037"
       (reference "JP1") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
     )
+    (path "/95a63bfa-f3e2-4ec2-a9fd-517188bf6aa7/3aeff386-fe76-4616-972f-729a5e25407c"
+      (reference "JP2") (unit 1) (value "Jumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
+    )
     (path "/67763d19-f622-4e1e-81e5-5b24da7c3f99/8b5f5947-5ed9-42a7-8fba-c3478a1bed71"
       (reference "L1") (unit 1) (value "22uH") (footprint "MSS_Devices:L_Bourns-SDE0805A_7x7.8mm")
     )
@@ -1672,6 +1681,24 @@
     )
     (path "/95a63bfa-f3e2-4ec2-a9fd-517188bf6aa7/737f9a8a-1014-49a8-aa93-41280b6a5992/3b0cf8f6-8308-41c9-a1a3-c91293233b71"
       (reference "R12") (unit 1) (value "2.2k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/500e58ba-b335-42ec-89b8-0ead2c9a619b/3949286b-1b05-4031-8ef7-c8d57a3626c4"
+      (reference "R13") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/500e58ba-b335-42ec-89b8-0ead2c9a619b/63f52c3b-5b11-4f02-962a-57b19bdc0f6f"
+      (reference "R14") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/500e58ba-b335-42ec-89b8-0ead2c9a619b/75602f6f-ac43-4f42-9cf9-32750bb81d46"
+      (reference "R15") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/500e58ba-b335-42ec-89b8-0ead2c9a619b/1bd94b80-b367-4187-9156-0bfe9f22f841"
+      (reference "R16") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/500e58ba-b335-42ec-89b8-0ead2c9a619b/03901113-10a1-489a-85e3-73bbe0000c06"
+      (reference "R17") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
+    )
+    (path "/500e58ba-b335-42ec-89b8-0ead2c9a619b/7ccd95a1-bf52-46a4-af7c-9110cf022638"
+      (reference "R18") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder")
     )
     (path "/95a63bfa-f3e2-4ec2-a9fd-517188bf6aa7/e46a1b0e-e21b-4a82-866c-99a2efd1588c"
       (reference "SW1") (unit 1) (value "on/off") (footprint "Button_Switch_SMD:SW_SPDT_PCM12")
