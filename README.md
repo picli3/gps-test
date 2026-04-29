@@ -1,11 +1,11 @@
 # gps-test
 
-Placa o montaje de prueba para módulos GPS, orientado a validación de comunicación, alimentación y experimentación con posicionamiento.
+Plataforma de pruebas para GPS con **ESP32**, pantalla OLED, cargador, step-up y bloques auxiliares de interfaz.
+
+## Propósito del proyecto
+Este diseño parece orientado a validar o construir un equipo portátil de posicionamiento/visualización, integrando alimentación, procesamiento y despliegue de datos dentro de una sola solución modular.
 
 ## Qué incluye
-- esquemáticos o archivos de diseño en KiCad
-- PCB o documentación asociada
-- base reutilizable para análisis, fabricación o mejora del proyecto
-
-## Propósito general
-Este repositorio busca concentrar el diseño de hardware del proyecto en un formato editable y reutilizable, facilitando pruebas, documentación y futuras iteraciones del circuito.
+- esquemáticos por bloques: GPS, ESP32, OLED, cargador, step-up y auxiliares
+- PCB principal en KiCad
+- base útil para experimentación con localización y dispositivos portátiles
